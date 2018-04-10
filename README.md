@@ -1,4 +1,4 @@
-fonts-config
+# fonts-config
 
 =====
 
@@ -11,7 +11,16 @@ The source for openSUSE's system fontconfig configurations.
 
 are from `infinality` project and MIT licensed. 
 
+=====
+
+## Infinality Closure
+
 As the infinality project is officialy dead, we just copied them here
 instead of generating it every time.
 
-  
+## OpenSUSE Closure
+
+As https://github.com/openSUSE/fonts-config has expressed interest in
+"closing" their fork, I have made a copy here.
+
+
